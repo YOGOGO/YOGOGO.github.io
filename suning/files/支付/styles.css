@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1579px;
+  width:1617px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1302,8 +1302,8 @@
 #u78 {
   border-width:0px;
   position:absolute;
-  left:1279px;
-  top:928px;
+  left:1317px;
+  top:971px;
   width:300px;
   height:75px;
 }
@@ -3986,5 +3986,38 @@
   top:7px;
   width:26px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u248_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:351px;
+  height:266px;
+  background:inherit;
+  background-color:rgba(255, 223, 37, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  font-size:14px;
+}
+#u248 {
+  border-width:0px;
+  position:absolute;
+  left:931px;
+  top:807px;
+  width:351px;
+  height:266px;
+  font-size:14px;
+}
+#u249 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:331px;
   word-wrap:break-word;
 }
