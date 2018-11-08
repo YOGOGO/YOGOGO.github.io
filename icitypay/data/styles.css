@@ -51,27 +51,6 @@
 .paragraph {
   text-align:left;
 }
-.line {
-}
-.flow_shape {
-}
-.connector {
-  font-family:'Microsoft YaHei UI';
-  font-weight:400;
-  font-style:normal;
-  font-size:16px;
-  color:#333333;
-  text-align:center;
-  line-height:normal;
-}
-.box_3 {
-}
-.box_2 {
-}
-.box_1 {
-}
-.image {
-}
 .sticky_1 {
   text-align:left;
 }
@@ -84,33 +63,70 @@
 .sticky_4 {
   text-align:left;
 }
-.shape {
+.box_1 {
 }
-.image1 {
-  color:#000000;
+.image {
 }
-.vertical_line {
+._形状 {
+}
+._文本段落 {
+  text-align:left;
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .label {
   font-size:14px;
   text-align:left;
 }
-.box_21 {
+.image1 {
 }
-.box_11 {
-}
-.ellipse {
-}
-.paragraph1 {
+.radio_button {
   text-align:left;
 }
-.table_cell {
+.checkbox {
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.ellipse {
 }
 .text_field {
   color:#000000;
   text-align:left;
 }
-.button {
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.box_11 {
+}
+.button1 {
+}
+.placeholder {
+}
+.line {
+}
+._图片 {
+  color:#000000;
+}
+.shape {
+}
+.box_2 {
+}
+.image2 {
+  color:#000000;
+}
+.box_21 {
+}
+.table_cell {
+}
+.paragraph1 {
+  text-align:left;
 }
 .heading_11 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -119,77 +135,22 @@
   font-size:32px;
   text-align:left;
 }
+.horizontal_line {
+}
 .droplist {
   color:#000000;
   text-align:left;
 }
-.image2 {
+.box_3 {
 }
-.placeholder {
-}
-.ellipse1 {
-}
-.label1 {
-  font-size:14px;
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
-}
-._图片 {
-  color:#000000;
-}
-.marker {
-  color:#FFFFFF;
-}
-.button1 {
-}
-.link_button {
-  color:#169BD5;
-}
-.checkbox {
-  text-align:left;
-}
-.box_22 {
-}
-.shape1 {
-}
-.image3 {
-  color:#000000;
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.heading_21 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
+.connector {
+  font-family:'Microsoft YaHei UI';
+  font-weight:400;
   font-style:normal;
-  font-size:24px;
-  text-align:left;
+  font-size:16px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
-.sticky_11 {
-  text-align:left;
-}
-.sticky_31 {
-  text-align:left;
-}
-.sticky_41 {
-  text-align:left;
-}
-.sticky_21 {
-  text-align:left;
-}
-.line1 {
-}
-.icon {
-}
-._图片1 {
-}
-._形状 {
-}
-.box_12 {
-}
-.placeholder1 {
-}
-.horizontal_line {
+.flow_shape {
 }
